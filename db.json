@@ -1,1 +1,17 @@
-
+ monsters: [
+        {
+          firstname: "Bitchtardo",
+        },
+        {
+          firstname: "Ricky",
+        },
+        {
+          firstname: "Itsy",
+        },
+        {
+          firstname: "Bitsy",
+        },
+        {
+          firstname: "Spider",
+        },
+      ],
