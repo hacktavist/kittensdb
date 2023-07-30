@@ -1,5 +1,5 @@
- monsters: [
-        {
+[
+ {
           firstname: "Bitchtardo",
         },
         {
@@ -14,4 +14,4 @@
         {
           firstname: "Spider",
         },
-      ],
+]
