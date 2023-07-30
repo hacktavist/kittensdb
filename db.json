@@ -1,7 +1,6 @@
-{
+
   "monsters": [
     { "id": 1, "firstname": "Bitchtardo" },
     { "id": 2, "firstname": "Ricky" },
     { "id": 3, "firstname": "Itsy" }
   ],
-}
