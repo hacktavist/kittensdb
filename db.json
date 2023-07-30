@@ -1,19 +1,24 @@
 {
  "monsters": [
         {
-          "firstname": "Bitchtardo",
+         "id": 1,
+         "firstname": "Bitchtardo",
         },
         {
-          "firstname": "Ricky",
+         "id": 2,
+         "firstname": "Ricky",
         },
         {
-          "firstname": "Itsy",
+         "id": 3,
+         "firstname": "Itsy",
         },
         {
-          "firstname": "Bitsy",
+         "id": 4,
+         "firstname": "Bitsy",
         },
         {
-          "firstname": "Spider",
+         "id": 5,
+         "firstname": "Spider",
         },
  ]
 }
