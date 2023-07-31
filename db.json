@@ -1,5 +1,5 @@
 {
-  "monsters": [
+  "kittens": [
     { "id": 1, "firstname": "Itsy" },
     { "id": 2, "firstname": "Bitsy" },
     { "id": 3, "firstname": "Spider" }
